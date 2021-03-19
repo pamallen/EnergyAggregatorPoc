@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cVyyldD+b6Wzke5PbNXDU29SEd5t9rfG45Z7x9xEBAvs/SU/VD78xO0ityc0CDFh/+P1+otPDqpaty9A7sjTqg==",
+  "dgSpecHash": "L8dJKZlaLawPhOeZ6URRl6fLVX29BeNiTkHXXb466dfPicN2ocwHKWlFNhVHYy8Gv+rKFx0nlkeXqpkAJON9GA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pamal\\source\\repos\\EnergyAggregatorPoc\\EnergyAggregatorPoc\\EnergyAggregatorPoc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pamal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

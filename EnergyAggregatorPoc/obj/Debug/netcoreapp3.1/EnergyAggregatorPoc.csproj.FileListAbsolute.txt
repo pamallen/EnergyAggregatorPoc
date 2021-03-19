@@ -1,0 +1,15 @@
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\EnergyAggregatorPoc.exe
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\EnergyAggregatorPoc.deps.json
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\EnergyAggregatorPoc.runtimeconfig.json
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\EnergyAggregatorPoc.runtimeconfig.dev.json
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\EnergyAggregatorPoc.dll
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\EnergyAggregatorPoc.pdb
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.csprojAssemblyReference.cache
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.AssemblyInfoInputs.cache
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.AssemblyInfo.cs
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.dll
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.pdb
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.genruntimeconfig.cache
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.csproj.CoreCompileInputs.cache
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.csproj.CopyComplete

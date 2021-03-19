@@ -44,6 +44,7 @@ namespace EnergyAggregatorPoc
 
             var readings = JsonConvert.DeserializeObject<List<EnergyReading>>(responseContent);
 
+            var result = new List<EnergyProduction>();
             readings?.ForEach(reading =>
             {
                 EnergyProductions.Add(EnergyProduction.Create(DateTime.UnixEpoch.AddSeconds(reading.Start),

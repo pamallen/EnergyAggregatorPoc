@@ -11,5 +11,6 @@ C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\ne
 C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.pdb
 C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.genruntimeconfig.cache
 C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.csproj.CoreCompileInputs.cache
 C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.csproj.CopyComplete
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\pamal\source\repos\EnergyAggregatorPoc\EnergyAggregatorPoc\obj\Debug\netcoreapp3.1\EnergyAggregatorPoc.csproj.CoreCompileInputs.cache

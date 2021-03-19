@@ -15,8 +15,9 @@ namespace EnergyAggregatorPoc
 
             aggregator.AddFactory(PowerFactory.Create("https://interview.beta.bcmenergy.fr/hawes", "JSON", TimeSpan.FromMinutes(15)));
             aggregator.AddFactory(PowerFactory.Create("https://interview.beta.bcmenergy.fr/barnsley", "JSON", TimeSpan.FromMinutes(30)));
-            //aggregator.AddFactory(PowerFactory.Create("https://interview.beta.bcmenergy.fr/hounslow", "CSV", TimeSpan.FromMinutes(60)));
 
+            // Not enough time to implement reading from csv files, so for now we'll pretend this factory doesn't exist
+            //aggregator.AddFactory(PowerFactory.Create("https://interview.beta.bcmenergy.fr/hounslow", "CSV", TimeSpan.FromMinutes(60)));
 
             var result = JsonConvert.SerializeObject(await aggregator.AggregateReadings(startTime, endTime, args[2]), Formatting.Indented);
 

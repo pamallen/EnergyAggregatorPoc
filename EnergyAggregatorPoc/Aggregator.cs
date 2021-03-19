@@ -29,10 +29,14 @@ namespace EnergyAggregatorPoc
 
         public async Task<List<EnergyReading>> AggregateReadings(DateTime startTime, DateTime endTime, string format)
         {
+            //There's an issue with async foreach loops. Would need to write a quick extension but not enough time
+
             //PowerFactories.ForEach(async pf =>
             //{
             //    await pf.GetEnergyProductions(startTime, endTime);
             //});
+
+            //So instead of a foreach loop we do this risky business
             await PowerFactories[0].GetEnergyProductions(startTime, endTime);
             await PowerFactories[1].GetEnergyProductions(startTime, endTime);
 

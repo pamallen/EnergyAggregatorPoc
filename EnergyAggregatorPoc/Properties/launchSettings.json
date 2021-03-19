@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EnergyAggregatorPoc": {
+      "commandName": "Project",
+      "commandLineArgs": "10-03-2021 18-03-2021 json"
+    }
+  }
+}
